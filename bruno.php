@@ -1,4 +1,2 @@
-
-<?php echo("teste");
-
-
+<?php 
+echo('Innovare TI');
