@@ -1,2 +1,3 @@
 var nome = 'elton Nicolau'
-var idade = 18
+var idade = 37
+var gostaDeStarWars = 'sim'
