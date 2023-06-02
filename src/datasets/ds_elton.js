@@ -1,2 +1,2 @@
-var nome = 'elton'
-var idade = 37
+var nome = 'elton Nicolau'
+var idade = 18
